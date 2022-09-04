@@ -1,0 +1,5 @@
+baseURL = 'http://unchainedsays.com/'
+languageCode = 'en-us'
+title = 'unchainedsays.com'
+theme = 'hugo-theme-shell'
+googleAnalytics = "G-53M2CLKDVX"
